@@ -1,0 +1,7 @@
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\RepasoPipes\bin\Debug\RepasoPipes.exe.config
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\RepasoPipes\bin\Debug\RepasoPipes.exe
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\RepasoPipes\bin\Debug\RepasoPipes.pdb
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\RepasoPipes\obj\Debug\RepasoPipes.csprojAssemblyReference.cache
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\RepasoPipes\obj\Debug\RepasoPipes.csproj.CoreCompileInputs.cache
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\RepasoPipes\obj\Debug\RepasoPipes.exe
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\RepasoPipes\obj\Debug\RepasoPipes.pdb
