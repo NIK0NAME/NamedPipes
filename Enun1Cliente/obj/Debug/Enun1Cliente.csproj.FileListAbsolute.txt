@@ -1,0 +1,7 @@
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun1Cliente\bin\Debug\Enun1Cliente.exe.config
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun1Cliente\bin\Debug\Enun1Cliente.exe
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun1Cliente\bin\Debug\Enun1Cliente.pdb
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun1Cliente\obj\Debug\Enun1Cliente.csprojAssemblyReference.cache
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun1Cliente\obj\Debug\Enun1Cliente.csproj.CoreCompileInputs.cache
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun1Cliente\obj\Debug\Enun1Cliente.exe
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun1Cliente\obj\Debug\Enun1Cliente.pdb

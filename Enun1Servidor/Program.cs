@@ -19,23 +19,27 @@ namespace Enun1Servidor
             npss.WaitForConnection();
 
             Console.WriteLine("Introducir coordenadas");
-            Console.Write("Posicion X: ");
+            Console.WriteLine("Posicion X: ");
             posX = int.Parse(Console.ReadLine());
 
-            Console.Write("Posicion Y: ");
+            Console.WriteLine("Posicion Y: ");
             posY = int.Parse(Console.ReadLine());
 
             StreamReader s_read = new StreamReader(npss);
             StreamWriter s_write = new StreamWriter(npss);
 
+            s_write.AutoFlush = true;
             s_write.WriteLine(posX);
             s_write.WriteLine(posY);
 
-            String palabra = Console.ReadLine();
-            while(palabra.CompareTo("fin") == 0)
+            Console.WriteLine("Introducir direction: ");
+            string palabra = Console.ReadLine();
+            s_write.WriteLine(palabra);
+            while (palabra.CompareTo("fin") != 0)
             {
-                s_write.WriteLine(palabra);
+                Console.WriteLine("Introducir direction: ");
                 palabra = Console.ReadLine();
+                s_write.WriteLine(palabra);
             }
 
             posX = int.Parse(s_read.ReadLine());
@@ -43,8 +47,8 @@ namespace Enun1Servidor
 
             Console.WriteLine("Coordenadas -> X: " + posX + " Y: " + posY);
 
-            s_read.Close();
-            s_write.Close();
+            npss.Close();
+           
         }
     }
 }

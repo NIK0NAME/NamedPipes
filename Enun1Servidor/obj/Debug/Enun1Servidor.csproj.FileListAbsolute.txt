@@ -1,0 +1,6 @@
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun1Servidor\bin\Debug\Enun1Servidor.exe.config
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun1Servidor\bin\Debug\Enun1Servidor.exe
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun1Servidor\bin\Debug\Enun1Servidor.pdb
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun1Servidor\obj\Debug\Enun1Servidor.csproj.CoreCompileInputs.cache
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun1Servidor\obj\Debug\Enun1Servidor.exe
+D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun1Servidor\obj\Debug\Enun1Servidor.pdb

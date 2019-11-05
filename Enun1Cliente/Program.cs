@@ -20,11 +20,13 @@ namespace Enun1Cliente
             StreamReader s_read = new StreamReader(npcs);
             StreamWriter s_write = new StreamWriter(npcs);
 
+            s_write.AutoFlush = true;
             posX = int.Parse(s_read.ReadLine());
             posY = int.Parse(s_read.ReadLine());
 
-            String palabra = s_read.ReadLine();
-            while (palabra.CompareTo("fin") == 0)
+            
+            string palabra = s_read.ReadLine();
+            while (palabra.CompareTo("fin") != 0)
             {
                 switch(palabra)
                 {
@@ -33,14 +35,17 @@ namespace Enun1Cliente
                     case "left": posX -= 1; break;
                     case "right": posX += 1; break;
                 }
+                
                 palabra = s_read.ReadLine();
             }
 
             s_write.WriteLine(posX);
             s_write.WriteLine(posY);
 
-            s_read.Close();
-            s_write.Close();
+            npcs.WaitForPipeDrain();
+
+            npcs.Close();
+            
         }
     }
 }
