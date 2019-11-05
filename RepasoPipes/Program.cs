@@ -25,11 +25,12 @@ namespace RepasoPipes
 
             StreamWriter s_write = new StreamWriter(npss);
             StreamReader s_read = new StreamReader(npss);
+            s_write.AutoFlush = true;
 
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Conexion establecida");
 
-            Console.ForegroundColor = ConsoleColor.Black;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Introducir valores (hb) la pasta que hay e (db) la pasta que se debe ;)");
             Console.Write("hb: ");
             hb = int.Parse(Console.ReadLine());
@@ -56,8 +57,7 @@ namespace RepasoPipes
             hb = int.Parse(s_read.ReadLine());
             db = int.Parse(s_read.ReadLine());
 
-            s_write.Close();
-            s_read.Close();
+            npss.Close();
 
             int saldo = hb - db;
 

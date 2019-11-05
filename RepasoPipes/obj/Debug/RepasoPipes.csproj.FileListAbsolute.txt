@@ -5,3 +5,10 @@ D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\RepasoPipes\
 D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\RepasoPipes\obj\Debug\RepasoPipes.csproj.CoreCompileInputs.cache
 D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\RepasoPipes\obj\Debug\RepasoPipes.exe
 D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\RepasoPipes\obj\Debug\RepasoPipes.pdb
+L:\SEIM 2\3.Programacion_procesos\workspace\NamedPipes\RepasoPipes\bin\Debug\RepasoPipes.exe.config
+L:\SEIM 2\3.Programacion_procesos\workspace\NamedPipes\RepasoPipes\bin\Debug\RepasoPipes.exe
+L:\SEIM 2\3.Programacion_procesos\workspace\NamedPipes\RepasoPipes\bin\Debug\RepasoPipes.pdb
+L:\SEIM 2\3.Programacion_procesos\workspace\NamedPipes\RepasoPipes\obj\Debug\RepasoPipes.csprojAssemblyReference.cache
+L:\SEIM 2\3.Programacion_procesos\workspace\NamedPipes\RepasoPipes\obj\Debug\RepasoPipes.csproj.CoreCompileInputs.cache
+L:\SEIM 2\3.Programacion_procesos\workspace\NamedPipes\RepasoPipes\obj\Debug\RepasoPipes.exe
+L:\SEIM 2\3.Programacion_procesos\workspace\NamedPipes\RepasoPipes\obj\Debug\RepasoPipes.pdb

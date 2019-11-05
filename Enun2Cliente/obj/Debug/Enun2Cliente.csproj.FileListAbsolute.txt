@@ -4,3 +4,10 @@ D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun2Cliente
 D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun2Cliente\obj\Debug\Enun2Cliente.csproj.CoreCompileInputs.cache
 D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun2Cliente\obj\Debug\Enun2Cliente.exe
 D:\Nikolay_Zabaleta\5.PROG_SERVICIOS_PROCESOS\workspace\RepasoPipes\Enun2Cliente\obj\Debug\Enun2Cliente.pdb
+L:\SEIM 2\3.Programacion_procesos\workspace\NamedPipes\Enun2Cliente\bin\Debug\Enun2Cliente.exe.config
+L:\SEIM 2\3.Programacion_procesos\workspace\NamedPipes\Enun2Cliente\bin\Debug\Enun2Cliente.exe
+L:\SEIM 2\3.Programacion_procesos\workspace\NamedPipes\Enun2Cliente\bin\Debug\Enun2Cliente.pdb
+L:\SEIM 2\3.Programacion_procesos\workspace\NamedPipes\Enun2Cliente\obj\Debug\Enun2Cliente.csprojAssemblyReference.cache
+L:\SEIM 2\3.Programacion_procesos\workspace\NamedPipes\Enun2Cliente\obj\Debug\Enun2Cliente.csproj.CoreCompileInputs.cache
+L:\SEIM 2\3.Programacion_procesos\workspace\NamedPipes\Enun2Cliente\obj\Debug\Enun2Cliente.exe
+L:\SEIM 2\3.Programacion_procesos\workspace\NamedPipes\Enun2Cliente\obj\Debug\Enun2Cliente.pdb

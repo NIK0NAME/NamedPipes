@@ -21,6 +21,7 @@ namespace Enun2Cliente
 
             StreamReader s_read = new StreamReader(npcs);
             StreamWriter s_write = new StreamWriter(npcs);
+            s_write.AutoFlush = true;
 
             hb = int.Parse(s_read.ReadLine());
             db = int.Parse(s_read.ReadLine());
@@ -44,8 +45,7 @@ namespace Enun2Cliente
             s_write.WriteLine(hb);
             s_write.WriteLine(db);
 
-            s_write.Close();
-            s_read.Close();
+            npcs.Close();
         }
     }
 }
